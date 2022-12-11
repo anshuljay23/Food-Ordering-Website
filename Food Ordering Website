@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h1 {
+            color: # e18e75;
+            background-color: # 00000099;
+            padding-top: 50px text-align: center font-family: cursive padding-bottom: 50px
+        }
+
+        p {
+            color: # e18e75;
+            background-color: # 00000099;
+            height: 90px font-family: cursive font-size: 50px
+        }
+
+        h2 {
+            color: # 31429f;
+            font-size: xx-large text-align: center font-family: cursive
+        }
+
+        body {
+            background: url(background.jpg) background-repeat: no-repeat background-size: 100 % 100 % background-attachment: fixed
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <h1>
+            MOST POPULAR FOOD FRANCHISES IN INDIA
+        </h1>
+        <p> BELGIAN WAFFLE < /p>
+                <a href="file: // /C: / Users/91969/Documents/Anshul/Assignments/WEB % 20TECHNOLOGIES/Assignment%
+20Last/(BW)Second % 20Page.html">
+                    <br> <img src="http://topfranchiseindia.in/wp-content/uploads/2020/05/adidas-Franchise8.jpg"
+                        width="1280" height="720"> <br>
+                    <h2> <br> click on the image to Place an order < br>
+                    </h2>
+
+                </a>
+
+                <a href="https://thebelgianwaffle.co/home/welcome/">
+                    <h2>
+                        <br> click here to know more about BELGIAN WAFFLES < br>
+                    </h2>
+                </a>
+                <p> DOMINO'S < /p>
+
+                        <a href="file: // /C: / Users/91969/Documents/Anshul/Assignments/WEB % 20TECHNOLOGIES/Assignment%
+20Last/Domino's(Fifth % 20Page).html">
+                            <br> <img
+                                src="https://okcredit-blog-imagesprod.storage.googleapis.com/2021/11/shutterstock_1877702152.jpg"
+                                width="1280" height="720"> <br>
+                            <h2> <br> click on the image to Place an order < br>
+                            </h2>
+
+                        </a>
+
+                        <a href="https://www.dominos.com/index.intl.html">
+                            <h2>
+                                <br> click here to know more about DOMINO'S < br>
+                            </h2>
+                        </a>
+                        <p> KFC < /p>
+
+                                <a href="file: // /C: / Users/91969/Documents/Anshul/Assignments/WEB % 20TECHNOLOGIES/Assignment%
+20Last/Kfc(Sixth % 20Page).html">
+                                    <br> <img src="https: // images.ctfassets.net/h7j9u4fil4a3/4MDe66Cn0J7ObBDEp9MunP/53019bc5181611c6486ef
+dc5ec0bcf6e/2R7A2110-Pano-Edit.jpg?w = 1549 & h = 808 & fl = progressive & q = 50 & fm = jpg" width="1280"
+                                        height="720"> <br>
+                                    <h2> <br> click on the image to Place an order < br>
+                                    </h2>
+
+                                </a>
+
+                                <a href="https://www.kfc.com/">
+                                    <h2>
+                                        <br> click here to know more about KFC < br>
+                                    </h2>
+                                </a>
+                                <p> SUBWAY < /p>
+
+                                        <a href="file: // /C: / Users/91969/Documents/Anshul/Assignments/WEB % 20TECHNOLOGIES/Assignment%
+20Last/Subway(Seventh % 20Page).html">
+                                            <br> <img
+                                                src="https://topfranchiseindia.in/wp-content/uploads/2020/05/adidas-Franchise13.jpg"
+                                                width="1280" height="720"> <br>
+                                            <h2> <br> click on the image to Place an order < br>
+                                            </h2>
+
+                                        </a>
+
+                                        <a href="https://www.subway.com/">
+                                            <h2>
+                                                <br> click here to know more about Subway < br>
+                                            </h2>
+                                        </a>
+                                        </a>
+
+                                        <p> STARBUCKS < /p>
+
+                                                <a href="file: // /C: / Users/91969/Documents/Anshul/Assignments/WEB % 20TECHNOLOGIES/Assignment%
+20Last/Starbucks(Eighth % 20Page).html">
+                                                    <br> <img
+                                                        src="https://static.independent.co.uk/s3fspublic/thumbnails/image/2020/05/11/11/istock-888973566.jpg?width=1200"
+                                                        width="1280" height="720"> <br>
+                                                    <h2> <br> click on the image to Place an order < br>
+                                                    </h2>
+                                                </a>
+
+                                                <a href="https://www.starbucks.in/">
+                                                    <h2>
+                                                        <br> click here to know more about Starbucks < br>
+                                                    </h2>
+                                                </a>
+    </center>
+</body>
+
+</html>
+<!Doctype html>
+<html>
+
+<head>
+    <style>
+        h1 {
+            color: # e18e75;
+            background-color: # 00000099;
+            padding-top: 50px text-align: center font-family: cursive padding-bottom: 50px
+        }
+
+        p {
+            color: # e18e75;
+            background-color: # 00000099;
+            font-family: cursive font-size: xx-large
+        }
+
+        h2 {
+            color: black font-size: x-large text-align: center font-family: cursive
+        }
+
+        body {
+            background: url(secong_page_bg.jpg) background-repeat: no-repeat background-size: 100 % 100 % background-attachment: fixed
+        }
+    </style>
+</head>
+
+<body background="https://i.pinimg.com/736x/43/6e/49/436e490103dd14b7b425ccdf5917a117.jpg">
+    <center>
+        <h1>
+            BELGIAN WAFFLE
+        </h1>
+        <p> FRESHLY BAKED WAFF-WICH < /p>
+                <a href="file: // /C: / Users/91969/Documents/Anshul/Assignments/WEB % 20TECHNOLOGIES/Assignment%
+20Last/BW(Third % 20Page).html">
+                    <br> <img src="https://imgmedia.lbb.in/media/2020/01/5e1ac500f57d0a47bd4b2d6b_1578812672701.jpg"
+                        width="1280" height="720"> <br>
+                    <h2> <br> Click on the image to view MENU for WAFFLES < br>
+                    </h2>
+
+                </a>
+                <a href="file: // /C: / Users/91969/Documents/Anshul/Assignments/WEB % 20TECHNOLOGIES/Assignment%
+20Last/BW(Fourth % 20Page).html">
+
+                    <p> MINI PANCAKES < /p>
+
+                            <a href="file: // /C: / Users/91969/Documents/Anshul/Assignments/WEB % 20TECHNOLOGIES/Assignment%
+20Last/BW(Fourth % 20Page).html">
+                                <br> <img src="https://i.ytimg.com/vi/BhRgssMSCF4/maxresdefault.jpg" width="1280"
+                                    height="720"> <br>
+                                <h2> <br> Click on the image to view MENU for MINI PANCAKES < br>
+                                </h2>
+                            </a>
+
+    </center>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h1 {
+            color: black padding-top: 50px text-align: center font-size: xx-large
+        }
+
+        button {
+            font-family: serif background-color: pink color: black height: 40px width: 100px font-weight: 50px font-size: 15px
+        }
+    </style>
+    <script type="text/javascript">
+        function submit() {
+            var a = parseInt(document.getElementById('qty').value)
+            var result = a * 120
+            alert("Your Total Bill Is " + result)
+        }
+    </script>
+</head>
+
+<body background="https://cdn.pixabay.com/photo/2015/08/06/17/23/waffle878198_1280.jpg">
+    <center>
+
+        <h1> Place your order below < /h1>
+                <table>
+                    <b>
+                        Enter Full Name: < font color="red"> * < /font>
+                                </td>
+                                <input type="text" name="FullName" placeholder="Example: Anshul
+Jayaswal"> <br> <br> </td>
+
+                                Select Waffle < font color="red"> * < /font>
+                                        </td>
+
+                                        <select name="Waffle">
+                                            <option value="Classic"> Classic < /option>
+                                            <option value="Chocolate"> Chocolate < /option>
+                                            <option value="Cream and Crunchy"> Cream and Crunchy < /option>
+                                            <option value="Cheesecake"> Cheesecake < /option>
+                                            <option value="Double chocolate"> Double chocolate < /option>
+                                            <option value="Black Velvet"> Black Velvet < /option>
+                                            <option value="Red Velvete"> Red Velvete < /option>
+                                        </select>
+
+                                        <tr>
+                                            Enter Number of waffles: < font color="red"> * < /font>
+                                                    <input type="text" name="Enter Number of waffles" id="qty"
+                                                        placeholder="Example:
+4">
+                                        </tr>
+                                        <tr>
+                                            <td> <b> Phone Number: < font color="red"> * < /font> </b> </td>
+                                            <td>
+                                                <textarea name="Phone Number" rows="1" cols="15"> </textarea>
+                                            </td>
+                                        </tr>
+                    </b>
+                </table>
+
+                <br> <br>
+                <button name="Submit" onclick="submit()"> PLACE ORDER < /button>
+
+    </center>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h1 {
+            color: black padding-top: 50px text-align: center
+        }
+
+        button {
+            background-color: pink color: black height: 30px
+        }
+    </style>
+    <script type="text/javascript">
+        function submit() {
+            var a = parseInt(document.getElementById('qty').value)
+            var result = a * 160
+            alert("Your Total Bill Is " + result)
+        }
+    </script>
+</head>
+
+<body background="https: // thumbor.thedailymeal.com/UtOIC_v6H8LnkYtAkcBxyp6wN70 = //https: // videoda
+massets.thedailymeal.com/filestore/5/1/8/0_36c7f5783e2f460/5180pre_6900c86e74b51f6.jpg % 3Fv = 201
+9-08-23+14 % 3A52 % 3A16 & version = 0">
+    <center>
+
+        <h1> Place your order below < /h1>
+                <table>
+                    <b>
+                        Enter Full Name: < font color="red"> * < /font>
+                                </td>
+                                <input type="text" name="FullName" placeholder="Example: Anshul
+Jayaswal"> <br> <br> </td>
+
+                                Select Mini Pancakes < font color="red"> * < /font>
+                                        </td>
+
+                                        <select name="Mini Pancake">
+                                            <option value="Almond Cocoa Butter"> Almond Cocoa Butter < /option>
+                                            <option value="Chocolate"> Chocolate < /option>
+                                            <option value="Triple Chocolate"> Triple Chocolate < /option>
+                                            <option value="Classic"> Classic < /option>
+                                            <option value="Double chocolate"> Double chocolate < /option>
+                                            <option value="Black Velvet"> Black Velvet < /option>
+                                            <option value="Red Velvete"> Red Velvete < /option>
+                                        </select>
+                                        <tr>
+                                            Enter Number of Dozens: < font color="red"> * < /font>
+                                                    <input type="text" name="Enter Number of Dozens" id="qty"
+                                                        placeholder="Example:
+4">
+                                        </tr>
+                                        <tr>
+                                            <td> <b> Phone Number: < font color="red"> * < /font> </b> </td>
+                                            <td>
+                                                <textarea name="Phone Number" rows="1" cols="15"> </textarea>
+                                            </td>
+                                        </tr>
+                    </b>
+                </table>
+                <br> <br>
+
+                <button name="Submit" onclick="submit()"> PLACE ORDER < /button>
+
+    </center>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h1 {
+            color: black padding-top: 50px text-align: center font-size: xx-large
+        }
+
+        button {
+            background-color: pink color: black height: 30px
+        }
+    </style>
+    <script type="text/javascript">
+        function submit() {
+            var a = parseInt(document.getElementById('qty').value)
+            var result = a * 168
+            alert("Your Total Bill Is " + result)
+        }
+    </script>
+</head>
+
+<body background="https: // st4.depositphotos.com/23268290/25532/i/600/depositphotos_255328850-
+stock-photo-woman-hand-taking-piece-pizza.jpg">
+    <center>
+
+        <h1> Place your order below < /h1>
+                <table>
+                    <b>
+                        Enter Full Name: < font color="red"> * < /font>
+                                </td>
+                                <input type="text" name="FullName" placeholder="Example: Anshul
+Jayaswal"> <br> <br> </td>
+
+                                Select Pizza < font color="red"> * < /font>
+                                        </td>
+
+                                        <select name="Pizza">
+                                            <option value="Margherita"> Margherita < /option>
+                                            <option value="Cheese and Corn"> Cheese and Corn < /option>
+                                            <option value="Double cheese Margherita"> Double cheese Margherita
+                                            </option>
+                                            <option value="Peppy Paneer"> Peppy Paneer < /option>
+                                            <option value="Corn And Onion "> Corn And Onion < /option>
+                                            <option value="Deluxe Veggie"> Deluxe Veggie < /option>
+                                            <option value="Indi Tandoori Paneer"> Indi Tandoori Paneer < /option>
+                                        </select>
+                                        <tr>
+                                            Enter Number of Pizza: < font color="red"> * < /font>
+                                                    <input type="text" name="Enter Number of Pizza" id="qty"
+                                                        placeholder="Example:
+4">
+                                        </tr>
+                                        <tr>
+                                            <td> <b> Phone Number: < font color="red"> * < /font> </b> </td>
+                                            <td>
+                                                <textarea name="Phone Number" rows="1" cols="15"> </textarea>
+                                            </td>
+                                        </tr>
+                    </b>
+                </table>
+
+                <button name="Submit" onclick="submit()"> PLACE ORDER < /button>
+
+    </center>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h1 {
+            color: black padding-top: 50px text-align: center font-size: xx-large
+        }
+
+        button {
+            background-color: pink color: black height: 30px
+        }
+    </style>
+    <script type="text/javascript">
+        function submit() {
+            var a = parseInt(document.getElementById('qty').value)
+            var result = a * 320
+            alert("Your Total Bill Is " + result)
+        }
+    </script>
+</head>
+
+<body
+    background="https://marketingweek.imgix.net/content/uploads/2020/05/21173351/KFC2.jpg?auto=compress,format&q=60&w=736&h=429">
+    <center>
+
+        <h1> Place your order below < /h1>
+                <table>
+                    <b>
+                        Enter Full Name: < font color="red"> * < /font>
+                                </td>
+                                <input type="text" name="FullName" placeholder="Example: Anshul
+Jayaswal"> <br> <br> </td>
+
+                                Select Bucket/Rice Bowls/Burger < font color="red"> * < /font>
+                                        </td>
+
+                                        <select name="Bucket/Rice Bowls/Burger">
+                                            <option value="Burger"> Burger < /option>
+                                            <option value="Bucket"> Bucket < /option>
+                                            <option value="Rice Bowl"> Rice Bowl < /option>
+                                        </select>
+                                        <tr>
+                                            Enter Number of Dozens: < font color="red"> * < /font>
+                                                    <input type="text" name="Enter Number of Dozens" id="qty"
+                                                        placeholder="Example:
+4">
+                                        </tr>
+                                        <tr>
+                                            <td> <b> Phone Number: < font color="red"> * < /font> </b> </td>
+                                            <td>
+                                                <textarea name="Phone Number" rows="1" cols="15"> </textarea>
+                                            </td>
+                                        </tr>
+                    </b>
+                </table>
+
+                <button name="Submit" onclick="submit()"> PLACE ORDER < /button>
+
+    </center>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h1 {
+            color: black padding-top: 50px text-align: center font-size: xx-large
+        }
+
+        button {
+            background-color: pink color: black height: 30px
+        }
+    </style>
+    <script type="text/javascript">
+        function submit() {
+            var a = parseInt(document.getElementById('qty').value)
+            var result = a * 160
+            alert("Your Total Bill Is " + result)
+        }
+    </script>
+</head>
+
+<body background="https: // media.istockphoto.com/photos/subway-submarine-sandwichesrestaurant-picture-id1167020882?k = 20 & m = 1167020882 & s = 612x612 & w = 0 & h = jo26-
+XyJYw8VahjFYg76EBAT7Ie35_5tXddtVrjf1L4 =">
+    <center>
+
+        <h1> Place your order below < /h1>
+                <table>
+                    <b>
+                        Enter Full Name: < font color="red"> * < /font>
+                                </td>
+                                <input type="text" name="FullName" placeholder="Example: Anshul
+Jayaswal"> <br> <br> </td>
+
+                                Select Dish < font color="red"> * < /font>
+                                        </td>
+
+                                        <select name="Dish">
+                                            <option value="Subs"> Subs < /option>
+                                            <option value="Subwrap"> Subwrap < /option>
+                                            <option value="Toasties"> Toasties < /option>
+                                            <option value="Salads"> Salads < /option>
+                                        </select>
+                                        <tr>
+                                            Enter Number of Dozens: < font color="red"> * < /font>
+                                                    <input type="text" name="Enter Number of Dozens" id="qty"
+                                                        placeholder="Example: 4">
+                                        </tr>
+                                        <tr>
+                                            <td> <b> Phone Number: < font color="red"> * < /font> </b> </td>
+                                            <td>
+                                                <textarea name="Phone Number" rows="1" cols="15"> </textarea>
+                                            </td>
+                                        </tr>
+                    </b>
+                </table>
+                <br> <br>
+
+                <button name="Submit" onclick="submit()"> PLACE ORDER < /button>
+
+    </center>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        h1 {
+            color: black padding-top: 50px text-align: center font-size: xx-large
+        }
+
+        button {
+            background-color: pink color: black height: 30px
+        }
+    </style>
+    <script type="text/javascript">
+        function submit() {
+            var a = parseInt(document.getElementById('qty').value)
+            var result = a * 160
+            alert("Your Total Bill Is " + result)
+        }
+    </script>
+</head>
+
+<body background="https://static0.thetalkoimages.com/wordpress/wpcontent/uploads/2018/07/lessblur1223-2.jpg">
+    <center>
+
+        <h1> Place your order below < /h1>
+                <table>
+                    <b>
+                        Enter Full Name: < font color="red"> * < /font>
+                                </td>
+                                <input type="text" name="FullName" placeholder="Example: Anshul
+Jayaswal"> <br> <br> </td>
+
+                                Select Coffee < font color="red"> * < /font>
+                                        </td>
+
+                                        <select name="Coffee">
+                                            <option value="Coffee"> Coffee < /option>
+                                            <option value="Java Chip"> Java Chip < /option>
+                                            <option value="Vanila Cream"> Vanila Cream < /option>
+                                            <option value="Double Chocolate Chip"> Double Chocolate Chip < /option>
+                                            <option value="Iced Latte"> Iced Latte < /option>
+                                            <option value="Caffe Latte"> Caffe Latte < /option>
+                                            <option value="Red Velvete"> Red Velvete < /option>
+                                        </select>
+                                        <tr>
+                                            Enter Number of Dozens: < font color="red"> * < /font>
+                                                    <input type="text" name="Enter Number of Dozens" id="qty"
+                                                        placeholder="Example:
+4">
+                                        </tr>
+                                        <tr>
+                                            <td> <b> Phone Number: < font color="red"> * < /font> </b> </td>
+                                            <td>
+                                                <textarea name="Phone Number" rows="1" cols="15"> </textarea>
+                                            </td>
+                                        </tr>
+                    </b>
+                </table>
+                <br> <br>
+
+                <button name="Submit" onclick="submit()"> PLACE ORDER < /button>
+
+    </center>
+</body>
+
+</html>
